@@ -30,12 +30,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enoch-agboola-239aa1293)
 [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/b0b02824)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enoch-agboola)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ITZBOBO)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/shazeat)
 [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-%23151515.svg?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/enochbobo28)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enochbobo28@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=enoch-agboola&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ITZBOBO&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -45,7 +45,7 @@
 
 ## 📊 GitHub Overview
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enoch-agboola&theme=github_dark)](https://github.com/enoch-agboola)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ITZBOBO&theme=github_dark)](https://github.com/ITZBOBO)
 
 </div>
 
@@ -55,7 +55,7 @@
 
 | Stats | Commits by Hour |
 |:---:|:---:|
-| [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=enoch-agboola&theme=github_dark)](https://github.com/enoch-agboola) | [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enoch-agboola&theme=github_dark&utcOffset=1)](https://github.com/enoch-agboola) |
+| [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ITZBOBO&theme=github_dark)](https://github.com/ITZBOBO) | [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ITZBOBO&theme=github_dark&utcOffset=1)](https://github.com/ITZBOBO) |
 
 </div>
 
@@ -65,7 +65,7 @@
 
 | By Repo | By Commit |
 |:---:|:---:|
-| [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enoch-agboola&theme=github_dark)](https://github.com/enoch-agboola) | [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enoch-agboola&theme=github_dark)](https://github.com/enoch-agboola) |
+| [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ITZBOBO&theme=github_dark)](https://github.com/ITZBOBO) | [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ITZBOBO&theme=github_dark)](https://github.com/ITZBOBO) |
 
 </div>
 
@@ -75,7 +75,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=enoch-agboola&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/enoch-agboola)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ITZBOBO&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ITZBOBO)
 
 </div>
 
@@ -85,7 +85,7 @@
 
 ## 🔥 Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=enoch-agboola&theme=dark&hide_border=true&stroke=0891B2&ring=0891B2&fire=F59E0B&currStreakNum=FFFFFF&currStreakLabel=0891B2&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ITZBOBO&theme=dark&hide_border=true&stroke=0891B2&ring=0891B2&fire=F59E0B&currStreakNum=FFFFFF&currStreakLabel=0891B2&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -95,7 +95,7 @@
 
 ## 🗺️ Contribution Graph
 
-[![Enoch's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enoch-agboola&bg_color=0d1117&color=0891b2&line=0891b2&point=f59e0b&area=true&hide_border=true)](https://github.com/enoch-agboola)
+[![Enoch's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ITZBOBO&bg_color=0d1117&color=0891b2&line=0891b2&point=f59e0b&area=true&hide_border=true)](https://github.com/ITZBOBO)
 
 </div>
 
